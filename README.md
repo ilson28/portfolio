@@ -1,16 +1,75 @@
-# React + Vite
+# 🌐 Portafolio Personal — Ilson Díaz
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este repositorio contiene el código fuente de mi **portafolio personal**, donde presento mi perfil como desarrollador, mis habilidades técnicas y algunos de los proyectos que he construido.
 
-Currently, two official plugins are available:
+El objetivo del portafolio es mostrar cómo pienso, cómo estructuro mis proyectos y el enfoque que tengo hacia la calidad del código y el diseño.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Tecnologías utilizadas
 
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
+El portafolio fue desarrollado como una aplicación web moderna utilizando:
 
-## Expanding the ESLint configuration
+- **React** para la construcción de la interfaz
+- **Tailwind CSS** para estilos y diseño responsive
+- **Framer Motion** para animaciones suaves y controladas
+- **Vite** como herramienta de desarrollo y build
+- **JavaScript (ES6+)**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Características principales
+
+- Diseño **minimalista y responsive**
+- Animaciones sutiles orientadas a mejorar la experiencia de usuario
+- Secciones claras y bien estructuradas:
+  - Sobre mí
+  - Proyectos
+  - Tecnologías
+  - Cursos destacados
+  - Contacto
+- Código organizado y fácil de mantener
+
+---
+
+## 📌 Proyecto destacado
+
+### 🎮 GameHub — Sistema de Gestión de Videojuegos
+
+Aplicación web para la gestión de videojuegos que permite:
+
+- Registrar y administrar videojuegos
+- Realizar ventas y alquileres
+- Gestionar devoluciones
+- Consultar el historial de transacciones
+
+El proyecto está enfocado en una lógica clara, reglas de negocio bien definidas y una interfaz limpia y funcional.
+
+---
+
+## 🌍 Despliegue
+
+El portafolio está desplegado en **Vercel** y es accesible públicamente:
+
+👉 **[Ver portafolio](https://portfolio-nine-sand-48.vercel.app/)**
+
+
+
+---
+
+## 📫 Contacto
+
+Si deseas ponerte en contacto conmigo, puedes hacerlo a través de:
+
+- **LinkedIn:** https://linkedin.com/in/ilsondiaz  
+- **GitHub:** https://github.com/ilson28  
+- **Correo:** ilsondiazmorelo28@gmail.com  
+
+---
+
+## 🧠 Nota final
+
+Este portafolio es un proyecto en evolución.  
+Seguirá mejorando a medida que continúe aprendiendo, explorando nuevas herramientas y construyendo soluciones más completas.
+
+---
