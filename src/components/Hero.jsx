@@ -17,7 +17,7 @@ const Hero = () => {
                     variants={animation}
                     initial="hidden"
                     animate="visible"
-                    transition={{ duration: 0.6, delay: 0.35, ease: "easeOut" }}
+                    transition={{ duration: 0.6, ease: "easeOut" }}
                     className="w-32 h-32 sm:w-40 sm:h-40 rounded-full object-cover hover:outline-2 hover:outline-offset-4 hover:outline-accent hover:scale-105 cursor-pointer transition-all transition-duration-300"
                     src={img}
                     alt="Ilson Diaz" />
@@ -50,7 +50,7 @@ const Hero = () => {
                 variants={animation}
                 initial="hidden"
                 animate="visible"
-                transition={{ duration: 0.6, delay: 0.3, ease: "easeOut" }}
+                transition={{ duration: 0.6, delay: 0.2, ease: "easeOut" }}
 
                 className="text-base sm:text-lg text-text-secondary">
                 Java · Spring Boot · React
@@ -61,7 +61,7 @@ const Hero = () => {
                 variants={animation}
                 initial="hidden"
                 animate="visible"
-                transition={{ duration: 0.6, delay: 0.4, ease: "easeOut" }}
+                transition={{ duration: 0.6, delay: 0.3, ease: "easeOut" }}
 
                 className="block py-3 px-8 bg-accent text-bg-primary font-medium rounded-xl hover:scale-105 transition-transform"
                 href="#contact">
