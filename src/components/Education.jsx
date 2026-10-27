@@ -46,7 +46,7 @@ const Education = () => {
                     <div className="p-6 space-y-2 rounded-xl bg-bg-secondary border border-[#1E293B]  hover:border-accent/50 transition-all duration-300">
                         <h4 className="text-lg font-semibold">Ingeniería de Sistemas</h4>
                         <p className="text-accent">Universidad Libre - Seccional Barranquilla</p>
-                        <p className="text-text-secondary text-sm italic">En etapa final (2021 - Actualidad)</p>
+                        {/* <p className="text-text-secondary text-sm italic">En etapa final (2021 - Actualidad)</p> */}
                     </div>
                 </div>
 

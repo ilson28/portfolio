@@ -19,7 +19,7 @@ const AboutMe = () => {
                 <div className="space-y-5">
 
                     <p className="text-lg sm:text-xl text-text-secondary leading-relaxed">
-                        Estudiante de Ingeniería de Sistemas en último semestre, enfocado en el desarrollo de aplicaciones web con Java, Spring Boot y React. Me interesa construir software bien pensado, con lógica clara, arquitectura limpia y código mantenible, más allá de que simplemente “funcione”.
+                       Ingeniero de Sistemas enfocado en el desarrollo de aplicaciones web Full Stack, con conocimientos en Java, Spring Boot y React. Me interesa construir software bien diseñado, con lógica clara, arquitectura limpia y código mantenible, priorizando soluciones funcionales, escalables y fáciles de mantener.
                     </p>
 
                     <div className="flex items-center gap-1 justify-center text-text-secondary/60">
