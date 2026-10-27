@@ -1,5 +1,5 @@
 import { motion } from "motion/react"
-import img from "../assets/images/fondo-blanco.png";
+import img from "../assets/images/foto_fondo_blanco.jpeg";
 
 const animation = {
     hidden: { opacity: 0, y: 20 },
